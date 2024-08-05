@@ -1,5 +1,5 @@
 # Diastole
-<img src="diastoleStill.png" width="1000">
+![image](diastoleStill.png)
 Diastole is an audio-reactive piece created using the p5.js library.
 \
 \
