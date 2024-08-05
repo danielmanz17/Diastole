@@ -11,4 +11,4 @@ This work began with Carl Lostritto's "squiggle" example discussed in his text "
 
 # References
 
-[1] **Computational Drawing: From Foundational Exercises to Representation** by Carl Lostritto, 2022. [Amazon](https://www.amazon.co.uk/Computational-Drawing-Foundational-Exercises-Representation/dp/1940743265)
+[1] **Computational Drawing: From Foundational Exercises to Representation** by Carl Lostritto, 2022. [Carl Lostritto Website](http://lostritto.com/book)
